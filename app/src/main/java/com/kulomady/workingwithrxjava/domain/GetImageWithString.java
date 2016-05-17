@@ -1,11 +1,10 @@
-package com.kulomady.workingwithrxjava.main;
+package com.kulomady.workingwithrxjava.domain;
 
 import android.content.res.Resources;
 
 import com.kulomady.workingwithrxjava.data.datasource.ImageDataSource;
 import com.kulomady.workingwithrxjava.data.datasource.StringDataSource;
 import com.kulomady.workingwithrxjava.data.model.ImageWithText;
-import com.kulomady.workingwithrxjava.domain.UseCase;
 
 import rx.Observable;
 

@@ -6,6 +6,7 @@ import com.fernandocejas.frodo.annotation.RxLogSubscriber;
 import com.kulomady.workingwithrxjava.R;
 import com.kulomady.workingwithrxjava.data.model.ImageWithText;
 import com.kulomady.workingwithrxjava.domain.DefaultSubscriber;
+import com.kulomady.workingwithrxjava.domain.GetImageWithString;
 import com.kulomady.workingwithrxjava.domain.UseCase;
 
 /**
